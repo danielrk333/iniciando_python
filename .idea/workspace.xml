@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e945b1-c0da-4e5a-be02-50acd24bc7c9" name="Changes" comment="inclusion of files date 2024.02.29.1701">
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/aula8/aula8.py" afterDir="false" />
+    <list default="true" id="80e945b1-c0da-4e5a-be02-50acd24bc7c9" name="Changes" comment="inclusion of files date 2024.02.29.1730">
+      <change afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso_guanabara/aula8/ex16.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/aula7.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/aula7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex06.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex08.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +65,7 @@
     "Python.ex11_finalizar.executor": "Run",
     "Python.ex12.executor": "Run",
     "Python.ex13.executor": "Run",
+    "Python.ex15.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -112,11 +104,20 @@
       <option name="project" value="LOCAL" />
       <updated>1709236902000</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inclusion of files date 2024.02.29.1730">
+      <option name="closed" value="true" />
+      <created>1709238663714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709238663714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="inclusion of files date 2024.02.29.1701" />
-    <option name="LAST_COMMIT_MESSAGE" value="inclusion of files date 2024.02.29.1701" />
+    <MESSAGE value="inclusion of files date 2024.02.29.1730" />
+    <option name="LAST_COMMIT_MESSAGE" value="inclusion of files date 2024.02.29.1730" />
   </component>
 </project>
