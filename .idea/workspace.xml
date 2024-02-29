@@ -4,24 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80e945b1-c0da-4e5a-be02-50acd24bc7c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/iniciando_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/aula7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex03e04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_guanabara/ex13.py" afterDir="false" />
+    <list default="true" id="80e945b1-c0da-4e5a-be02-50acd24bc7c9" name="Changes" comment="inclusion of files date 2024.02.29.1701">
+      <change afterPath="$PROJECT_DIR$/curso_guanabara/aula8/aula8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/aula7.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/aula7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex05.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex06.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex07.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex08.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex09.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex10.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex11.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex12.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso_guanabara/ex13.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso_guanabara/aula7/ex13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +33,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;danielrk333&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4ce33199-6cdf-47a7-b609-0c7a45f433aa" />
+        <option name="url" value="https://github.com/danielrk333/iniciando_python.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -52,6 +61,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.aula7.executor": "Run",
+    "Python.aula8.executor": "Run",
     "Python.curso_guanabara.executor": "Run",
     "Python.ex05_a_13.executor": "Run",
     "Python.ex05e06.executor": "Run",
@@ -68,11 +78,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Daniel Lavorini\PycharmProjects\iniciando_python\curso_guanabara\aula7" />
       <recent name="C:\Users\Daniel Lavorini\PycharmProjects\iniciando_python\curso_guanabara" />
       <recent name="C:\Users\Daniel Lavorini\PycharmProjects\iniciando_python\brocode" />
     </key>
@@ -93,6 +104,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708894376381</updated>
     </task>
+    <task id="LOCAL-00001" summary="inclusion of files date 2024.02.29.1701">
+      <option name="closed" value="true" />
+      <created>1709236902000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709236902000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="inclusion of files date 2024.02.29.1701" />
+    <option name="LAST_COMMIT_MESSAGE" value="inclusion of files date 2024.02.29.1701" />
   </component>
 </project>
